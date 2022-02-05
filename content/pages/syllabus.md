@@ -83,38 +83,531 @@ During the first half of the term, a small-group recitation session happens at t
 
 The calendar below provides information on the course's lecture (L) and recitations (R) sessions.
 
-| SES # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| L1 | Introduction to Technology and Policy | Prof. Weigel | &nbsp; |
-| L2 | The Heart of Policy Arguments - Equity, Efficiency, Liberty, Security | Prof. Weigel | HW 1 due |
-| L3 | Portraying Policy Problems - The Art of Framing in Many Languages | Prof. Weigel |  {{< br >}}{{< br >}} Self assessment due {{< br >}}{{< br >}} Term Project: NRC contact list due; NRC emails due three days before SES #L4 {{< br >}}{{< br >}}  |
-| R1 | Victim's Compensation Fund Case Study | &nbsp; |
-| L4 | Policy Strategy and Instruments | Prof. Weigel | HW 2 due |
-| L5 | Current Issues in Technology and Policy: Environmental Policy Challenges I | Guest - Prof. Dave Marks | Term project: Two committee charges due one day before SES #L6 |
-| R2 | Discussion of Stone Through the News: Equity and Efficiency | &nbsp; |
-| L6 | Class Projects Update: Teams, Project Organization, and NRC Reports | Prof. Weigel | HW 3 due one day before SES #L7 |
-| R3 | Discussion of Stone Through the News: Security and Liberty | &nbsp; |
-| L7 | Current Issues in Technology and Policy: Environmental Policy Challenges II | Guest - Prof. Dave Marks | &nbsp; |
-| L8 | Government Policy and Technology I - History in the U.S. | Guest - Prof. David Mindell | Term project: Committee list due two days after SES #L8 |
-| R4 | Case Study - London Congestion Pricing | &nbsp; |
-| L9 | Government Policy and Technology II - International | Prof. Weigel | HW 4 due |
-| R5 | Case Study - KIDSNET | &nbsp; |
-| L10 | Challenger Case Study | Guest - Prof. Daniel Hastings | Term project - Project proposals due |
-| L11 | Systems Thinking: Origins and Why It Matters To Policy | Prof. Roos | Personal policy principles journal - 1st 3-4 principles due |
-| R6 | Understanding Systems Thinking | &nbsp; |
-| L12 | Policy Analysis I | Prof. Weigel | Term project - 360° team evaluations due |
-| L13 | Globalization Impacts: Government - Industry Interactions | Guest - Prof. Suzanne Berger | &nbsp; |
-| L14 | Policy Analysis II | Prof. Weigel | HW 5 due |
-| L15 | Globalization Impacts: Supply Chains | Guest - Prof. Yoshi Sheffi | &nbsp; |
-| L16 | Globalization Impacts: Globalization and the Automotive Sector | Prof. Roos | Term project - draft report and executive summary due |
-| L17 | Class Projects Update | All | &nbsp; |
-| L18 | Policy Analysis III | Prof. Weigel | &nbsp; |
-| L19 | Focus Area: Policy Perspectives on Transportation | Guest - Bob Skinner | &nbsp; |
-| L20 | Focus Area: The Big Dig - Policy Implications and Lessons | Guest - Fred Salvucci | &nbsp; |
-| L21 | No Class; Project Work Time | &nbsp; | Term Project - outside feedback due |
-| L22 | Current Issues in Technology and Policy: IT and Privacy | Guest - Frank Field | &nbsp; |
-| L23 | Current Issues in Technology and Policy: The Role of Standards In Technology and Policy | Guest - Dr. William Jeffrey, Director, National Institute of Standards and Technology (NIST) | &nbsp; |
-| L24 | Final Project Presentations | Students | &nbsp; |
-| L25 | Final Project Presentations (cont.) | Students |  {{< br >}}{{< br >}} Final project reports due one day after SES #L25 {{< br >}}{{< br >}} Term project: project team evaluations due one day after SES #L25 {{< br >}}{{< br >}}  |
-| L26 | Policy Principles: Discussion and Reflection | Prof. Weigel | HW 6 due |
-| L27 | Conclusion and Wrap-up | All |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Technology and Policy
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+The Heart of Policy Arguments - Equity, Efficiency, Liberty, Security
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Portraying Policy Problems - The Art of Framing in Many Languages
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Self assessment due
+
+Term Project: NRC contact list due; NRC emails due three days before SES #L4
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Victim's Compensation Fund Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Strategy and Instruments
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Current Issues in Technology and Policy: Environmental Policy Challenges I
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Prof. Dave Marks
+{{< tdclose >}}
+{{< tdopen >}}
+Term project: Two committee charges due one day before SES #L6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Stone Through the News: Equity and Efficiency
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Class Projects Update: Teams, Project Organization, and NRC Reports
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 due one day before SES #L7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Stone Through the News: Security and Liberty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Current Issues in Technology and Policy: Environmental Policy Challenges II
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Prof. Dave Marks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Government Policy and Technology I - History in the U.S.
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Prof. David Mindell
+{{< tdclose >}}
+{{< tdopen >}}
+Term project: Committee list due two days after SES #L8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study - London Congestion Pricing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Government Policy and Technology II - International
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study - KIDSNET
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Challenger Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Prof. Daniel Hastings
+{{< tdclose >}}
+{{< tdopen >}}
+Term project - Project proposals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Systems Thinking: Origins and Why It Matters To Policy
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Roos
+{{< tdclose >}}
+{{< tdopen >}}
+Personal policy principles journal - 1st 3-4 principles due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Understanding Systems Thinking
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Analysis I
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+Term project - 360° team evaluations due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization Impacts: Government - Industry Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Prof. Suzanne Berger
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Analysis II
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+HW 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization Impacts: Supply Chains
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Prof. Yoshi Sheffi
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization Impacts: Globalization and the Automotive Sector
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Roos
+{{< tdclose >}}
+{{< tdopen >}}
+Term project - draft report and executive summary due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Class Projects Update
+{{< tdclose >}}
+{{< tdopen >}}
+All
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Analysis III
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Focus Area: Policy Perspectives on Transportation
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Bob Skinner
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Focus Area: The Big Dig - Policy Implications and Lessons
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Fred Salvucci
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+No Class; Project Work Time
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Term Project - outside feedback due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Current Issues in Technology and Policy: IT and Privacy
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Frank Field
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Current Issues in Technology and Policy: The Role of Standards In Technology and Policy
+{{< tdclose >}}
+{{< tdopen >}}
+Guest - Dr. William Jeffrey, Director, National Institute of Standards and Technology (NIST)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final project reports due one day after SES #L25
+
+Term project: project team evaluations due one day after SES #L25
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Policy Principles: Discussion and Reflection
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Weigel
+{{< tdclose >}}
+{{< tdopen >}}
+HW 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion and Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+All
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
