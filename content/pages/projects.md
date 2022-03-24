@@ -49,7 +49,7 @@ EXECUTIVE SUMMARIES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-01 Identifying the Dynamics of Technology Transition: ADS-B Adoption in the National Airspace System (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-01.pdf))
+ESD-WP-2007-01 Identifying the Dynamics of Technology Transition: ADS-B Adoption in the National Airspace System ([PDF - 1.7 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-01.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -67,7 +67,7 @@ Hidigunnur Thorsteinsson
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-01-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-01-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Hidigunnur Thorsteinsson
 {{< tdopen >}}
 
 
-ESD-WP-2007-02 U.S. Response to an Oil Import Disruption Role of the Federal Government in Light Duty Vehicle Transportation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-02.pdf))
+ESD-WP-2007-02 U.S. Response to an Oil Import Disruption Role of the Federal Government in Light Duty Vehicle Transportation ([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-02.pdf))
 
 
 {{< tdclose >}}
@@ -95,13 +95,13 @@ Monica Rush
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-02-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-02-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-03 Avian Influenza Pre-Pandemic Procurement: Recommendations for the U.S. Federal Government (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-03.pdf))
+ESD-WP-2007-03 Avian Influenza Pre-Pandemic Procurement: Recommendations for the U.S. Federal Government ([PDF - 1.1 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-03.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -119,13 +119,13 @@ Junjay Tan
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-03-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-03-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-04 Pathways to a Trusted Electronic Voting System (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.1 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-04.pdf))
+ESD-WP-2007-04 Pathways to a Trusted Electronic Voting System ([PDF - 5.1 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-04.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -143,13 +143,13 @@ Juan Martin
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-04-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-04-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-05 Barriers to the Success of 100% Maritime Cargo Container Scanning (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-05.pdf))
+ESD-WP-2007-05 Barriers to the Success of 100% Maritime Cargo Container Scanning ([PDF - 1.1 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-05.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -167,13 +167,13 @@ J. Wilds
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-05-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-05-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-06 Policy Issues in Implementing Smart Cards in Urban Public Transit Systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-06.pdf))
+ESD-WP-2007-06 Policy Issues in Implementing Smart Cards in Urban Public Transit Systems ([PDF - 2.6 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-06.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -191,13 +191,13 @@ Jacqueline Ye
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-06-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-06-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-07 Strategies for Water Reclamation: The Role of Policy and Technology in the Las Vegas Water Supply (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-07.pdf))
+ESD-WP-2007-07 Strategies for Water Reclamation: The Role of Policy and Technology in the Las Vegas Water Supply ([PDF - 2.0 MB](http://esd.mit.edu/WPS/2007/esd-wp-2007-07.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -213,13 +213,13 @@ Hsin Min Wong
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-07-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-07-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ESD-WP-2007-08 Superfund: An Assessment of Superfund Site Remedy Selection and Implementation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-08.pdf))
+ESD-WP-2007-08 Superfund: An Assessment of Superfund Site Remedy Selection and Implementation ([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-08.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -237,7 +237,7 @@ Timothy A. Sutherland
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-08-exec.pdf))
+([PDF](http://esd.mit.edu/WPS/2007/esd-wp-2007-08-exec.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}

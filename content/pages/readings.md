@@ -333,7 +333,7 @@ Hughes, Thomas P. _Networks of Power: Electrification in Western Society, 1880-1
 
 Hughes, Thomas P. _Rescuing Prometheus_. New York, NY: Knopf, 2000, chapter 6. ISBN: 0679739386.
 
-Rhodes, Donna, and Daniel Hastings. "The Case for Evolving Systems Engineering as a Field within Engineering Systems." Paper presented at MIT Engineering Systems Symposium, March 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/symposium/pdfs/papers/rhodes.pdf))
+Rhodes, Donna, and Daniel Hastings. "The Case for Evolving Systems Engineering as a Field within Engineering Systems." Paper presented at MIT Engineering Systems Symposium, March 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/papers/rhodes.pdf))
 
 
 {{< tdclose >}}
@@ -487,11 +487,11 @@ Prof. Weigel
 
 Heywood, J. B. Testimony presented at U.S. House of Representatives' Science Committee, Subcommittees on Energy and Research joint hearing on "Fueling the Future: On the Road to the Hydrogen Economy," Wednesday, July 20, 2005. ([PDF]({{< baseurl >}}/resources/heywood_testmony))
 
-Heywood, J. B., and Malcolm A. Weiss. "New Vehicle Technologies: How Soon Can They Make a Difference?" MIT Laboratory for Energy and the Environment, March 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/newsoffice/2005/fuel-new-tech.pdf))
+Heywood, J. B., and Malcolm A. Weiss. "New Vehicle Technologies: How Soon Can They Make a Difference?" MIT Laboratory for Energy and the Environment, March 2005. ([PDF](http://web.mit.edu/newsoffice/2005/fuel-new-tech.pdf))
 
-———. "A Multipronged Approach to Curbing Gasoline Use." MIT Laboratory for Energy and the Environment, June 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sloan-auto-lab/research/beforeh2/files/fuel-multipronged.pdf))
+———. "A Multipronged Approach to Curbing Gasoline Use." MIT Laboratory for Energy and the Environment, June 2004. ([PDF](http://web.mit.edu/sloan-auto-lab/research/beforeh2/files/fuel-multipronged.pdf))
 
-Weiss, Malcom A., and Andreas Schafer. "Vehicles and Fuels for 2020: Assessing the Hydrogen Fuel-Cell Vehicle." MIT Laboratory for Energy and the Environment, March 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.archive.org/web/20080726030009/http://web.mit.edu/newsoffice/2005/fuel-2020.pdf))
+Weiss, Malcom A., and Andreas Schafer. "Vehicles and Fuels for 2020: Assessing the Hydrogen Fuel-Cell Vehicle." MIT Laboratory for Energy and the Environment, March 2003. ([PDF](http://web.archive.org/web/20080726030009/http://web.mit.edu/newsoffice/2005/fuel-2020.pdf))
 
 
 {{< tdclose >}}
@@ -512,11 +512,11 @@ Guest - Bob Skinner
 
 Lecture Slides ([PDF]({{< baseurl >}}/resources/lec19))
 
-Transportation Research Board. "Future Flight: A Review of the Small Aircraft Transportation System Concept." TRB Special Report 263, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr263.pdf))
+Transportation Research Board. "Future Flight: A Review of the Small Aircraft Transportation System Concept." TRB Special Report 263, 2002. ([PDF - 2.6 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr263.pdf))
 
-———. "Does the Built Environment Influence Physical Activity? Examining the Evidence." TRB Special Report 282, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr282.pdf))
+———. "Does the Built Environment Influence Physical Activity? Examining the Evidence." TRB Special Report 282, 2005. ([PDF - 1.5 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr282.pdf))
 
-———. The Fuel Tax and Alternatives for Transportation Funding. TRB Special Report 285, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr285.pdf))
+———. The Fuel Tax and Alternatives for Transportation Funding. TRB Special Report 285, 2006. ([PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr285.pdf))
 
 Students should read the executive summaries of each of the TRB reports and browse through the bodies of the report to get a sense of how issues were framed by the authoring committees and the kinds of evidence and analysis considered.
 
@@ -577,11 +577,11 @@ Black, Jason, Kieran Downes, Frank Field, Aleksandra Mozdzanowska, and Katherine
 
 Turow, Joseph. "[Have They Got A Deal For You: It's Suspiciously Cozy in the Cybermarket](http://www.washingtonpost.com/wp-dyn/content/article/2005/06/18/AR2005061800070.html)." _The Washington Post_, June 19, 2005, p. B01.
 
-———. "Americans and Online Privacy: The System Is Broken." Annenberg Public Policy Center, University of Pennsylvania, June 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1411&context=asc_papers))
+———. "Americans and Online Privacy: The System Is Broken." Annenberg Public Policy Center, University of Pennsylvania, June 2003. ([PDF - 1.6MB](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1411&context=asc_papers))
 
 O'Harrow, Robert, Jr. "[In Age of Security, Firm Mines Wealth Of Personal Data](http://www.washingtonpost.com/wp-dyn/articles/A22269-2005Jan19.html)." _The Washington Post_, January 20, 2005, p. A01. (Off-topic, but it may be of interest; O'Harrow's award-winning series of articles and supporting information is hosted at the _Washington Post's_ site: "[The High Price of Homeland Security](http://www.washingtonpost.com/wp-dyn/content/linkset/2005/05/20/LI2005052001091.html)").
 
-Turow, Joseph, Lauren Feldman, and Kimberly Meltzer. "Open To Exploitation: American Shoppers Online and Offline." Annenberg Public Policy Center, University of Pennsylvania, June 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB](http://www.annenbergpublicpolicycenter.org/Downloads/Media_and_Developing_Child/Conference_on_Child_Media/200006_Conference_on_Child_Media_report.pdf))
+Turow, Joseph, Lauren Feldman, and Kimberly Meltzer. "Open To Exploitation: American Shoppers Online and Offline." Annenberg Public Policy Center, University of Pennsylvania, June 2005. ([PDF - 2.6 MB](http://www.annenbergpublicpolicycenter.org/Downloads/Media_and_Developing_Child/Conference_on_Child_Media/200006_Conference_on_Child_Media_report.pdf))
 
 
 {{< tdclose >}}
