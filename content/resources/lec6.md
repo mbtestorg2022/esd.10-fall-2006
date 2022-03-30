@@ -4,6 +4,7 @@ description: This resource contains information about various class projects upd
   which includes Teams, Project Organization, and NRC Reports.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-10-introduction-to-technology-and-policy-fall-2006/8338624ef0d6ed011d6472a207059fe4_lec6.pdf
 file_type: application/pdf
+parent_uid: e523b603-465d-92e8-a50e-a16391f3aca1
 resourcetype: Document
 title: lec6.pdf
 uid: 8338624e-f0d6-ed01-1d64-72a207059fe4

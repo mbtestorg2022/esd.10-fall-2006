@@ -4,6 +4,7 @@ description: This resource contains information on engineering systems developme
   at MIT technology and the civil sector.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-10-introduction-to-technology-and-policy-fall-2006/10bdd1522fa2f9446c8515637c20c1e5_lec11.pdf
 file_type: application/pdf
+parent_uid: e523b603-465d-92e8-a50e-a16391f3aca1
 resourcetype: Document
 title: lec11.pdf
 uid: 10bdd152-2fa2-f944-6c85-15637c20c1e5
